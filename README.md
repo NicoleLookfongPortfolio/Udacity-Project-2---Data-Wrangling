@@ -55,9 +55,10 @@ The following Python libraries were used in this project:
 To install the required libraries, run:
 
 ```sh
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
-# Achknowledgements
+# Acknowledgements
 
 - Udacity: For providing the project and guiding the data wrangling process.
 
