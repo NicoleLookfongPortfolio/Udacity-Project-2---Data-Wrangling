@@ -1,6 +1,4 @@
-#WeRateDogs Data Wrangling Project
-
-by [Your Name]
+# WeRateDogs Data Wrangling Project
 
 Project Details
 
@@ -35,4 +33,44 @@ These findings were presented through various visualizations that illustrated tr
 Key Insights for Presentation
 
 The presentation focused on the storytelling aspects of the data. Visualizations were selected to highlight key trends, such as the distribution of dog ratings, and the relationship between predicted dog breed and tweet engagement metrics like favorite and retweet counts. The goal was to make the insights accessible and engaging for the audience, showcasing how different breeds and dog ratings impact social media success on WeRateDogs.
+
+Files
+
+wrangle_act.ipynb: Jupyter Notebook containing the entire data wrangling process, including gathering, assessing, cleaning, and analyzing the data.
+
+twitter_archive_master.csv: The cleaned dataset used for analysis.
+
+WeRateDogs_Wrangling_Report.pdf: A detailed report on the data wrangling process, documenting quality and tidiness issues and how they were resolved.
+
+WeRateDogs_Insights_Presentation.pdf: A presentation summarizing the key findings and insights from the analysis.
+
+How to Use
+
+To explore this project, clone the repository and open the Jupyter Notebook (wrangle_act.ipynb) to see the complete data wrangling process. The cleaned dataset (twitter_archive_master.csv) can be used to reproduce the analysis or conduct further research.
+
+Requirements
+
+The following Python libraries were used in this project:
+
+pandas
+
+numpy
+
+requests
+
+tweepy
+
+json
+
+matplotlib
+
+To install the required libraries, run:
+
+pip install -r requirements.txt
+
+Acknowledgments
+
+Udacity: For providing the project and guiding the data wrangling process.
+
+WeRateDogs: For sharing the data used in this project.
 
