@@ -56,3 +56,9 @@ To install the required libraries, run:
 
 ```sh
 pip install -r requirements.txt
+
+# Achknowledgements
+
+- Udacity: For providing the project and guiding the data wrangling process.
+
+- WeRateDogs: For sharing the data used in this project.
