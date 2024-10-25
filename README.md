@@ -60,6 +60,6 @@ pip install -r requirements.txt
 
 # Acknowledgements
 
-- Udacity: For providing the project and guiding the data wrangling process.
+- **Udacity**: For providing the project and guiding the data wrangling process.
 
-- WeRateDogs: For sharing the data used in this project.
+- **WeRateDogs**: For sharing the data used in this project.
